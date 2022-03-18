@@ -1,0 +1,11 @@
+C:\Users\gabur\Desktop\L Y S T\01. 공부\01. dev\C#\통신\TCP 모음\ColoringGame Ver.2\ColoringGame Ver.2\bin\Debug\ColoringGame Ver.2.exe.config
+C:\Users\gabur\Desktop\L Y S T\01. 공부\01. dev\C#\통신\TCP 모음\ColoringGame Ver.2\ColoringGame Ver.2\bin\Debug\ColoringGame Ver.2.exe
+C:\Users\gabur\Desktop\L Y S T\01. 공부\01. dev\C#\통신\TCP 모음\ColoringGame Ver.2\ColoringGame Ver.2\bin\Debug\ColoringGame Ver.2.pdb
+C:\Users\gabur\Desktop\L Y S T\01. 공부\01. dev\C#\통신\TCP 모음\ColoringGame Ver.2\ColoringGame Ver.2\obj\Debug\ColoringGame Ver.2.csproj.AssemblyReference.cache
+C:\Users\gabur\Desktop\L Y S T\01. 공부\01. dev\C#\통신\TCP 모음\ColoringGame Ver.2\ColoringGame Ver.2\obj\Debug\ColoringGame Ver.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabur\Desktop\L Y S T\01. 공부\01. dev\C#\통신\TCP 모음\ColoringGame Ver.2\ColoringGame Ver.2\obj\Debug\ColoringGame_Ver._2.Properties.Resources.resources
+C:\Users\gabur\Desktop\L Y S T\01. 공부\01. dev\C#\통신\TCP 모음\ColoringGame Ver.2\ColoringGame Ver.2\obj\Debug\ColoringGame Ver.2.csproj.GenerateResource.cache
+C:\Users\gabur\Desktop\L Y S T\01. 공부\01. dev\C#\통신\TCP 모음\ColoringGame Ver.2\ColoringGame Ver.2\obj\Debug\ColoringGame Ver.2.csproj.CoreCompileInputs.cache
+C:\Users\gabur\Desktop\L Y S T\01. 공부\01. dev\C#\통신\TCP 모음\ColoringGame Ver.2\ColoringGame Ver.2\obj\Debug\ColoringGame Ver.2.exe
+C:\Users\gabur\Desktop\L Y S T\01. 공부\01. dev\C#\통신\TCP 모음\ColoringGame Ver.2\ColoringGame Ver.2\obj\Debug\ColoringGame Ver.2.pdb
+C:\Users\gabur\Desktop\L Y S T\01. 공부\01. dev\C#\통신\TCP 모음\ColoringGame Ver.2\ColoringGame Ver.2\obj\Debug\ColoringGame_Ver._2.MainForm.resources
